@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Design & Content",
+    "items": [
+      {
+        "id": "tool-09",
+        "name": "Canva",
+        "src": "/tools/icons/tool-09.webp"
+      },
+      {
+        "id": "tool-18",
+        "name": "ChatGPT",
+        "src": "/tools/icons/tool-18.webp"
+      },
+      {
+        "id": "tool-20",
+        "name": "Adobe Creative Cloud",
+        "src": "/tools/icons/tool-20.webp"
+      },
+      {
+        "id": "tool-25",
+        "name": "WordPress",
+        "src": "/tools/icons/tool-25.webp"
+      },
+      {
+        "id": "tool-40",
+        "name": "Microsoft Word",
+        "src": "/tools/icons/tool-40.webp"
+      }
+    ]
+  },
+  {
+    "name": "Video & Editing",
+    "items": [
+      {
+        "id": "tool-22",
+        "name": "CapCut",
+        "src": "/tools/icons/tool-22.webp"
+      },
+      {
+        "id": "tool-23",
+        "name": "Filmora",
+        "src": "/tools/icons/tool-23.webp"
+      },
+      {
+        "id": "tool-24",
+        "name": "Final Cut Pro",
+        "src": "/tools/icons/tool-24.webp"
+      },
+      {
+        "id": "tool-38",
+        "name": "Loom",
+        "src": "/tools/icons/tool-38.webp"
+      }
+    ]
+  },
+  {
+    "name": "Marketing & Social",
+    "items": [
+      {
+        "id": "tool-01",
+        "name": "Pinterest",
+        "src": "/tools/icons/tool-01.webp"
+      },
+      {
+        "id": "tool-02",
+        "name": "Facebook",
+        "src": "/tools/icons/tool-02.webp"
+      },
+      {
+        "id": "tool-03",
+        "name": "Twitter",
+        "src": "/tools/icons/tool-03.webp"
+      },
+      {
+        "id": "tool-07",
+        "name": "Instagram",
+        "src": "/tools/icons/tool-07.webp"
+      },
+      {
+        "id": "tool-08",
+        "name": "LinkedIn",
+        "src": "/tools/icons/tool-08.webp"
+      },
+      {
+        "id": "tool-19",
+        "name": "Meta",
+        "src": "/tools/icons/tool-19.webp"
+      },
+      {
+        "id": "tool-26",
+        "name": "Constant Contact",
+        "src": "/tools/icons/tool-26.webp"
+      },
+      {
+        "id": "tool-27",
+        "name": "Buffer",
+        "src": "/tools/icons/tool-27.webp"
+      },
+      {
+        "id": "tool-30",
+        "name": "Mailchimp",
+        "src": "/tools/icons/tool-30.webp"
+      },
+      {
+        "id": "tool-31",
+        "name": "Airbnb",
+        "src": "/tools/icons/tool-31.webp"
+      },
+      {
+        "id": "tool-32",
+        "name": "Tripadvisor",
+        "src": "/tools/icons/tool-32.webp"
+      },
+      {
+        "id": "tool-33",
+        "name": "OpenTable",
+        "src": "/tools/icons/tool-33.webp"
+      },
+      {
+        "id": "tool-37",
+        "name": "Metricool",
+        "src": "/tools/icons/tool-37.webp"
+      },
+      {
+        "id": "tool-41",
+        "name": "TikTok",
+        "src": "/tools/icons/tool-41.webp"
+      }
+    ]
+  },
+  {
+    "name": "CRM & Collaboration",
+    "items": [
+      {
+        "id": "tool-04",
+        "name": "Zoom",
+        "src": "/tools/icons/tool-04.webp"
+      },
+      {
+        "id": "tool-05",
+        "name": "Telegram",
+        "src": "/tools/icons/tool-05.webp"
+      },
+      {
+        "id": "tool-06",
+        "name": "Gmail",
+        "src": "/tools/icons/tool-06.webp"
+      },
+      {
+        "id": "tool-10",
+        "name": "Google Chat",
+        "src": "/tools/icons/tool-10.webp"
+      },
+      {
+        "id": "tool-11",
+        "name": "WhatsApp",
+        "src": "/tools/icons/tool-11.webp"
+      },
+      {
+        "id": "tool-12",
+        "name": "Slack",
+        "src": "/tools/icons/tool-12.webp"
+      },
+      {
+        "id": "tool-13",
+        "name": "Skype",
+        "src": "/tools/icons/tool-13.webp"
+      },
+      {
+        "id": "tool-14",
+        "name": "Google",
+        "src": "/tools/icons/tool-14.webp"
+      },
+      {
+        "id": "tool-15",
+        "name": "Microsoft",
+        "src": "/tools/icons/tool-15.webp"
+      },
+      {
+        "id": "tool-16",
+        "name": "ClickUp",
+        "src": "/tools/icons/tool-16.webp"
+      },
+      {
+        "id": "tool-17",
+        "name": "Outlook",
+        "src": "/tools/icons/tool-17.webp"
+      },
+      {
+        "id": "tool-28",
+        "name": "Trello",
+        "src": "/tools/icons/tool-28.webp"
+      },
+      {
+        "id": "tool-29",
+        "name": "Basecamp",
+        "src": "/tools/icons/tool-29.webp"
+      },
+      {
+        "id": "tool-35",
+        "name": "Bitrix24",
+        "src": "/tools/icons/tool-35.webp"
+      }
+    ]
+  }
+]

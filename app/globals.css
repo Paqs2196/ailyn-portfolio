@@ -1,0 +1,37 @@
+@import 'tailwindcss';
+@import 'lenis/dist/lenis.css';
+
+@theme inline {
+  --font-sans: var(--font-amulya);
+  --font-display: var(--font-synonym);
+  --color-brand-orange: #d94b16;
+  --color-brand-burnt: #a8320a;
+  --color-brand-ember: #451506;
+  --color-brand-peach: #ffc09a;
+  --color-brand-copper: #a83a16;
+  --color-surface-base: #100e0d;
+  --color-surface-raised: #1c1816;
+  --color-surface-paper: #f5efe7;
+  --color-text-primary: #f5efe7;
+  --color-text-secondary: #bfb2a8;
+  --color-text-ink: #201914;
+  --color-border-subtle: #493b32;
+}
+
+:root { color-scheme: dark; background: #100e0d; color: #f5efe7; font-family: var(--font-amulya), Arial, sans-serif; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+.chapter-page{position:relative;margin-left:72px;min-width:0}
+.chapter-boundary{position:relative}
+.from-base{background:var(--color-surface-base)}
+.from-paper{background:var(--color-surface-paper)}
+.chapter-page>section,.chapter-boundary>section{scroll-margin-top:0}
+@media(max-width:760px){.chapter-page{margin-left:44px}}
+@media(prefers-reduced-motion:reduce){[data-boundary-reveal]>section{clip-path:none!important}}
+button, a { -webkit-tap-highlight-color: transparent; }
+button { font: inherit; }
+a { color: inherit; text-decoration: none; }
+button, a { touch-action: manipulation; }
+::selection { background: #ffc09a; color: #201914; }
+:focus-visible { outline: 2px solid #ffc09a; outline-offset: 6px; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation: none !important; transition: none !important; } }

@@ -1,0 +1,3142 @@
+{
+  "source": "https://createwithailyn.my.canva.site/portfolio/",
+  "retrieved": "2026-09-10",
+  "assets": [
+    {
+      "id": "MAFM1Tg2I9s",
+      "sourcePage": 6,
+      "sourceOrder": 1,
+      "key": "p06-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/afc2fdff5acab2582f7b7e4c52fd5acf.svg"
+      ],
+      "issues": [],
+      "status": "downloaded",
+      "label": "Decorative flower",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "5 SENS product imagery",
+      "localPath": "/work/images/p06-01.svg",
+      "width": 500,
+      "height": 499.8,
+      "bytes": 2521,
+      "sha256": "cebf397caf5a84bfe1a76087eba861c22fbba0eb4c8a3c3165975dc1f5807617",
+      "category": "Excluded",
+      "exclusionReason": "Decorative flower beside portfolio introduction; not a work sample",
+      "placement": "excluded",
+      "categoryStatus": "Approved primary category"
+    },
+    {
+      "id": "MAHHtbDVmNk",
+      "sourcePage": 6,
+      "sourceOrder": 2,
+      "key": "p06-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/f83daff6827d307c0e293c780b41904c.jpg"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p06-02.jpg",
+      "bytes": 713676,
+      "sha256": "d826635f76c25bfc1e19db4c275d642fe771afef457130436d3aaa3822dcebd6",
+      "status": "downloaded",
+      "label": "5 SENS perfume with flowers",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "5 SENS product imagery",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtb-1kHI",
+      "sourcePage": 6,
+      "sourceOrder": 3,
+      "key": "p06-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/4d2a1a38cfeadfc2f72946b771965fee.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p06-03.jpg",
+      "bytes": 343971,
+      "sha256": "293d9a5cc93c19acb0f7aeb55df3282d0fe137c3b66ac4004368bf017ce4d0ef",
+      "status": "downloaded",
+      "label": "5 SENS travel sprays in hand",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "5 SENS product imagery",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtQUhXxw",
+      "sourcePage": 6,
+      "sourceOrder": 4,
+      "key": "p06-04",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/1dfcac87c209087f95f7e265cf63d43b.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p06-04.jpg",
+      "bytes": 612626,
+      "sha256": "71541bd5de8e7229e2658f2363264e386027e089a416e2e3112988b39d95349d",
+      "status": "downloaded",
+      "label": "5 SENS travel sprays in meadow",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "5 SENS product imagery",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtRTfILk",
+      "sourcePage": 6,
+      "sourceOrder": 5,
+      "key": "p06-05",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/fd9699f7ed554302c3827c8f28d0abad.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p06-05.jpg",
+      "bytes": 1018824,
+      "sha256": "56f8566588a64868fd85a81c77d6ce42ad6414cab8c6d841ada965ecec702592",
+      "status": "downloaded",
+      "label": "5 SENS perfume with model",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "5 SENS product imagery",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtWFJgVQ",
+      "sourcePage": 6,
+      "sourceOrder": 6,
+      "key": "p06-06",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/9a7d0f50e06d9bd76db6750d084f0830.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p06-06.jpg",
+      "bytes": 805624,
+      "sha256": "891d06a910d1ac15407465f61599b6d6ab4e601400f7476cf9640e69da710d72",
+      "status": "downloaded",
+      "label": "5 SENS perfume botanical composition",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "5 SENS product imagery",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtby-6bw",
+      "sourcePage": 6,
+      "sourceOrder": 7,
+      "key": "p06-07",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/d1a1cc913f5c2335a809f20c2333ee2c.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p06-07.jpg",
+      "bytes": 429239,
+      "sha256": "d182d2b828b111183279bd18712295eb8910f454cf86c4ac00a03df89107075a",
+      "status": "downloaded",
+      "label": "5 SENS perfume in car mirror",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "5 SENS product imagery",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHxwI78wc",
+      "sourcePage": 7,
+      "sourceOrder": 1,
+      "key": "p07-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/d58765170ab0ceadc2a9a19d2c1ea8b7.png"
+      ],
+      "issues": [
+        "554 x 392 screenshot only; request larger export for large display. Analytics context/date range/client not independently verified."
+      ],
+      "width": 554,
+      "height": 392,
+      "canvaQuality": "SCREEN",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p07-01.png",
+      "bytes": 12890,
+      "sha256": "a4a91c1a0a144c7b87a0bf1b25372c499653e389d6f302d0c36ea94e81d6486f",
+      "status": "downloaded",
+      "label": "Facebook views",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Social performance screenshots",
+      "category": "Results",
+      "categoryStatus": "Approved proof-of-results; excluded from Selected Work",
+      "tags": [
+        "Social",
+        "Performance evidence"
+      ],
+      "placement": "analytics-results"
+    },
+    {
+      "id": "MAHHx2RiVKY",
+      "sourcePage": 7,
+      "sourceOrder": 2,
+      "key": "p07-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/b3f2ae3d4cb70a90f7658e110ad13e6d.png"
+      ],
+      "issues": [
+        "554 x 392 screenshot only; request larger export for large display. Analytics context/date range/client not independently verified."
+      ],
+      "width": 554,
+      "height": 392,
+      "canvaQuality": "SCREEN",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p07-02.png",
+      "bytes": 11763,
+      "sha256": "d1cf9b5fe805df22b8899a29bf5b61fdb83859fb242ca49a98b5d79d9ce29fe6",
+      "status": "downloaded",
+      "label": "Facebook visits",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Social performance screenshots",
+      "category": "Results",
+      "categoryStatus": "Approved proof-of-results; excluded from Selected Work",
+      "tags": [
+        "Social",
+        "Performance evidence"
+      ],
+      "placement": "analytics-results"
+    },
+    {
+      "id": "MAHHx7yxzzU",
+      "sourcePage": 7,
+      "sourceOrder": 3,
+      "key": "p07-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/1a337b36968382a91dfb025afb77e744.png"
+      ],
+      "issues": [
+        "554 x 392 screenshot only; request larger export for large display. Analytics context/date range/client not independently verified."
+      ],
+      "width": 554,
+      "height": 392,
+      "canvaQuality": "SCREEN",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p07-03.png",
+      "bytes": 12945,
+      "sha256": "162cb210d13caf8acd6c900a18c9f78bf71b8407213c78fb3c6fafbdad6372ae",
+      "status": "downloaded",
+      "label": "Facebook content interactions",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Social performance screenshots",
+      "category": "Results",
+      "categoryStatus": "Approved proof-of-results; excluded from Selected Work",
+      "tags": [
+        "Social",
+        "Performance evidence"
+      ],
+      "placement": "analytics-results"
+    },
+    {
+      "id": "MAHHx3iqXBg",
+      "sourcePage": 7,
+      "sourceOrder": 4,
+      "key": "p07-04",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/61b3a24081226b7934d49201955adc5f.png"
+      ],
+      "issues": [
+        "554 x 392 screenshot only; request larger export for large display. Analytics context/date range/client not independently verified."
+      ],
+      "width": 554,
+      "height": 392,
+      "canvaQuality": "SCREEN",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p07-04.png",
+      "bytes": 11837,
+      "sha256": "a30dbeff3ff90a295efb795c34f3f81e2060657209eaca877424fd1c1518683a",
+      "status": "downloaded",
+      "label": "Facebook link clicks",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Social performance screenshots",
+      "category": "Results",
+      "categoryStatus": "Approved proof-of-results; excluded from Selected Work",
+      "tags": [
+        "Social",
+        "Performance evidence"
+      ],
+      "placement": "analytics-results"
+    },
+    {
+      "id": "MAHHx3nW8T4",
+      "sourcePage": 7,
+      "sourceOrder": 5,
+      "key": "p07-05",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/5e14cfde9d2311a691e9d4a8c76b73e3.png"
+      ],
+      "issues": [
+        "554 x 392 screenshot only; request larger export for large display. Analytics context/date range/client not independently verified."
+      ],
+      "width": 554,
+      "height": 392,
+      "canvaQuality": "SCREEN",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p07-05.png",
+      "bytes": 11731,
+      "sha256": "3f5461a44d04fdeda54715b87402c55d9eb030bedc437c60e199e591ed60d003",
+      "status": "downloaded",
+      "label": "Facebook reach",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Social performance screenshots",
+      "category": "Results",
+      "categoryStatus": "Approved proof-of-results; excluded from Selected Work",
+      "tags": [
+        "Social",
+        "Performance evidence"
+      ],
+      "placement": "analytics-results"
+    },
+    {
+      "id": "MAHHx_zrMqY",
+      "sourcePage": 7,
+      "sourceOrder": 6,
+      "key": "p07-06",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/7403c1e08ed6ba8768e5c1dbd0b9b991.png"
+      ],
+      "issues": [
+        "1541 x 831 screenshot with small interface text. Metrics context/date range/client not independently verified."
+      ],
+      "width": 1541,
+      "height": 831,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p07-06.png",
+      "bytes": 202033,
+      "sha256": "f0911aaaa92194f4f14075f1c675cbcee287de683a29c7cbe3f0cb0190edfe44",
+      "status": "downloaded",
+      "label": "Weekly insights",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Social performance screenshots",
+      "category": "Results",
+      "categoryStatus": "Approved proof-of-results; excluded from Selected Work",
+      "tags": [
+        "Social",
+        "Performance evidence"
+      ],
+      "placement": "analytics-results"
+    },
+    {
+      "id": "VAG-6cK-csI",
+      "sourcePage": 8,
+      "sourceOrder": 1,
+      "key": "p08-01",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/82a7371e56568ad751108ce07e825c98.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/4110da16b7388e368d1a1e51e627b571.m4a"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 34.04,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:34.05",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 7669 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p08-01.jpg",
+      "localPath": "/work/videos/p08-01.mp4",
+      "bytes": 33505227,
+      "sha256": "d79bc5a48c6a7fd37937396c684333e0b8272685c927bf71b021f510e7144f60",
+      "status": "downloaded",
+      "label": "Doorway delivery / controller reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 1",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAG-6R_6zuo",
+      "sourcePage": 8,
+      "sourceOrder": 2,
+      "key": "p08-02",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/9b251e9828065972635819bafa2ee051.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/730fa2826b905685f0d23f206afb866a.m4a"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 57.213991,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:57.22",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 4490 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p08-02.jpg",
+      "localPath": "/work/videos/p08-02.mp4",
+      "bytes": 33597088,
+      "sha256": "ff5effa29d3932133b987b78ed4911c3cb89d0ce8420d65f0c269ada47777273",
+      "status": "downloaded",
+      "label": "Desk unboxing reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 1",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAG-6ch_rB8",
+      "sourcePage": 8,
+      "sourceOrder": 3,
+      "key": "p08-03",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/ad4f2a7c07f5a40cc3a580ecfeac116b.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/036a6b26c5bc859b62a7faa81eb2f2a0.m4a"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 43.375011,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:43.39",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 5956 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p08-03.jpg",
+      "localPath": "/work/videos/p08-03.mp4",
+      "bytes": 33430706,
+      "sha256": "15383de9646a257d943ebd2654e8e13692c201988aecc9649af13f59d12a3bee",
+      "status": "downloaded",
+      "label": "Phone-frame testimonial reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 1",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAG-6dkMKNQ",
+      "sourcePage": 8,
+      "sourceOrder": 4,
+      "key": "p08-04",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/3cef047a3dcbf09a684205915b43f01d.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/20420ed3bffd79928f3915758b8db898.m4a"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 29.140998,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:29.14",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 6377 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p08-04.jpg",
+      "localPath": "/work/videos/p08-04.mp4",
+      "bytes": 23990149,
+      "sha256": "33d3a64de1d0bbd32ee0972945bc5622e0624dec64c9e35ff21c4848a9d52ff1",
+      "status": "downloaded",
+      "label": "Penn State controller reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 1",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAG-6cDzzTY",
+      "sourcePage": 9,
+      "sourceOrder": 1,
+      "key": "p09-01",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/898e77dce2bc26e15322a5266b918798.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/20a9c38d9964d8fb7463d4bbeca90991.m4a"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 39.218004,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:39.23",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 5267 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p09-01.jpg",
+      "localPath": "/work/videos/p09-01.mp4",
+      "bytes": 26834272,
+      "sha256": "08d8a79e8145d4651e36d628d03d75ec7c614bbd37482acffdfd94762b01d2c2",
+      "status": "downloaded",
+      "label": "Alabama controller reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 2",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAG-6U2HLpI",
+      "sourcePage": 9,
+      "sourceOrder": 2,
+      "key": "p09-02",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/2be5f83ea3c6da7e9a3d5aca3e0b155f.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/c6b939ebe4115f719556b95a95039f96.m4a"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 25.982994,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:25.98",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 6781 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p09-02.jpg",
+      "localPath": "/work/videos/p09-02.mp4",
+      "bytes": 22688227,
+      "sha256": "1e9abf7505ebcb830c5406c3e8bdc144b61e17a3bd62ba0b42095d55f447fd19",
+      "status": "downloaded",
+      "label": "Xbox controller reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 2",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAG-6a8KlYg",
+      "sourcePage": 9,
+      "sourceOrder": 3,
+      "key": "p09-03",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/a6b02475d957dbc365558d1918741fba.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/53fbf2ed14295bbf76f61738892bbe45.m4a"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 39.101996,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:39.10",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 6896 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p09-03.jpg",
+      "localPath": "/work/videos/p09-03.mp4",
+      "bytes": 34718251,
+      "sha256": "40115f5587eb0ca938a1540a0c4495b452136d02dc9220850796e17d63e9a128",
+      "status": "downloaded",
+      "label": "Door-access / hotel reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 2",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAG-6RJ619E",
+      "sourcePage": 9,
+      "sourceOrder": 4,
+      "key": "p09-04",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/863870f3773b736ae625d0f5843fd07f.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/a69e143a0f80e683ea016703e1c743fb.m4a"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 25.703991,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:25.71",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 7829 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p09-04.jpg",
+      "localPath": "/work/videos/p09-04.mp4",
+      "bytes": 25826381,
+      "sha256": "e086c840ecd2d78369ab50225ff7beb39ccd6af0c5a4469f99f2fe0fae7ce1f8",
+      "status": "downloaded",
+      "label": "College Football 26 reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 2",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAHHtagwVng",
+      "sourcePage": 10,
+      "sourceOrder": 1,
+      "key": "p10-01",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/bb38ef1fef83b8bca997364a735f3b0f.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/a60ef98e38e8cb9b4b791ad513ea4b91.M4A"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 46.810997,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:46.83",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 5042 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p10-01.jpg",
+      "localPath": "/work/videos/p10-01.mp4",
+      "bytes": 30738958,
+      "sha256": "afb940ca7768c52d34dfcfcda54974d881df1cf13c3e20b659945a94ccb35b47",
+      "status": "downloaded",
+      "label": "Linen versus hemp talking-head reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 3",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAG-6WrDTGQ",
+      "sourcePage": 10,
+      "sourceOrder": 2,
+      "key": "p10-02",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/a981f4367b625622b633518946ff212b.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/f3462152ff344312eb07f181b7604f91.m4a"
+      ],
+      "issues": [
+        "Best published rendition is smaller than the original dimensions recorded by Canva; original upload not exposed"
+      ],
+      "declaredOriginalSize": [
+        1440,
+        2560
+      ],
+      "declaredDuration": 53.638005,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:53.65",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 3707 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p10-02.jpg",
+      "localPath": "/work/videos/p10-02.mp4",
+      "bytes": 26253762,
+      "sha256": "b6e9c541c0384e4f1ff00e21199abc3d95ea08122c7b0e658ecd4a1a5cbe1b09",
+      "status": "downloaded",
+      "label": "David car-wash reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 3",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAG-6aUvD7Q",
+      "sourcePage": 10,
+      "sourceOrder": 3,
+      "key": "p10-03",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/5f0cc9d00403728d36bc768ccd35bd4b.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/94c73e869f8dde0fa287ab2afe0c0749.m4a"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 51.152993,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:00:51.16",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 2587 kb/s, 30 fps, 30 tbr, 30k tbn (default)",
+      "poster": "/work/posters/p10-03.jpg",
+      "localPath": "/work/videos/p10-03.mp4",
+      "bytes": 17847566,
+      "sha256": "3894317f5dc47dece2cd4aea4d52b93e6e02a0402b33e82d141ead2669e26a6e",
+      "status": "downloaded",
+      "label": "David / Old Cars, Timeless reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 3",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAHHtfL_eFk",
+      "sourcePage": 10,
+      "sourceOrder": 4,
+      "key": "p10-04",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/bcd309cc60d0ccabf1aaceb8e10c9a7b.mp4",
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/84035cf8172bebad38b349d9e1750e4d.M4A"
+      ],
+      "issues": [],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 87.05161,
+      "extraction": "Highest-resolution DASH video and audio remuxed without re-encoding",
+      "width": 1080,
+      "height": 1920,
+      "audio": true,
+      "duration": "00:01:27.06",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 4647 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+      "poster": "/work/posters/p10-04.jpg",
+      "localPath": "/work/videos/p10-04.mp4",
+      "bytes": 52816405,
+      "sha256": "c6c4924f94334f8bda39c3d00306b05cce13c9b6f69a8c4485dceab23c29e4b2",
+      "status": "downloaded",
+      "label": "Plastic-to-activewear talking-head reel",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Short-form video gallery 3",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAFsf-VuQTQ",
+      "sourcePage": 11,
+      "sourceOrder": 1,
+      "key": "p11-01",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/23ae4a8e2d5b2470a57de57879b09397.mp4"
+      ],
+      "issues": [
+        "Best published rendition is smaller than the original dimensions recorded by Canva; original upload not exposed"
+      ],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 24.999755555555552,
+      "extraction": "Direct MP4 export",
+      "width": 720,
+      "height": 1280,
+      "audio": true,
+      "duration": "00:00:25.00",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280 [SAR 1:1 DAR 9:16], 663 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+      "poster": "/work/posters/p11-01.jpg",
+      "localPath": "/work/videos/p11-01.mp4",
+      "bytes": 2750937,
+      "sha256": "a193fc089d3970348c3df3931b8370554b1bc985be4e7b25cdb31081c8fa1c64",
+      "status": "downloaded",
+      "label": "Follow Us and Stay Tuned phone montage",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Animated social/design gallery",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAFsfxmf5ew",
+      "sourcePage": 11,
+      "sourceOrder": 2,
+      "key": "p11-02",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/289e73d211d3ac1877b48d09192b45a3.mp4"
+      ],
+      "issues": [
+        "Best published rendition is smaller than the original dimensions recorded by Canva; original upload not exposed",
+        "Published MP4 contains no audio stream; no separate audio is exposed for this item. Confirm whether intentionally silent or obtain original with audio."
+      ],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 14.233188888888888,
+      "extraction": "Direct MP4 export",
+      "width": 720,
+      "height": 1280,
+      "audio": false,
+      "duration": "00:00:14.23",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280 [SAR 1:1 DAR 9:16], 300 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+      "poster": "/work/posters/p11-02.jpg",
+      "localPath": "/work/videos/p11-02.mp4",
+      "bytes": 540525,
+      "sha256": "ad2a5bbb1ca4abdc8f58bb8926ce6d941eaf3012ef513f942a6a423ccddf6bb7",
+      "status": "downloaded",
+      "label": "All of You Are typography animation",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Animated social/design gallery",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAFuKW_Yjy4",
+      "sourcePage": 11,
+      "sourceOrder": 3,
+      "key": "p11-03",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/44be34e9a6f9135c8c8c5a9b3d6f680a.mp4"
+      ],
+      "issues": [
+        "Best published rendition is smaller than the original dimensions recorded by Canva; original upload not exposed",
+        "Published MP4 contains no audio stream; no separate audio is exposed for this item. Confirm whether intentionally silent or obtain original with audio."
+      ],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 9.033244444444444,
+      "extraction": "Direct MP4 export",
+      "width": 720,
+      "height": 1280,
+      "audio": false,
+      "duration": "00:00:09.03",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt470bg/bt470bg/smpte170m, progressive), 720x1280 [SAR 1:1 DAR 9:16], 975 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+      "poster": "/work/posters/p11-03.jpg",
+      "localPath": "/work/videos/p11-03.mp4",
+      "bytes": 1105899,
+      "sha256": "1e4ac9fa22fedb1da1a0c3b708eb740b216b830b358a2848b7493b872e06be38",
+      "status": "downloaded",
+      "label": "Guess the Client beauty montage",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Animated social/design gallery",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAFuKZnKSpk",
+      "sourcePage": 11,
+      "sourceOrder": 4,
+      "key": "p11-04",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/cd9d68727ac23313967c8fd33463b481.mp4"
+      ],
+      "issues": [
+        "Best published rendition is smaller than the original dimensions recorded by Canva; original upload not exposed",
+        "Published MP4 contains no audio stream; no separate audio is exposed for this item. Confirm whether intentionally silent or obtain original with audio."
+      ],
+      "declaredOriginalSize": [
+        1080,
+        1920
+      ],
+      "declaredDuration": 13.5332,
+      "extraction": "Direct MP4 export",
+      "width": 720,
+      "height": 1280,
+      "audio": false,
+      "duration": "00:00:13.53",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt470bg/bt470bg/smpte170m, progressive), 720x1280 [SAR 1:1 DAR 9:16], 291 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+      "poster": "/work/posters/p11-04.jpg",
+      "localPath": "/work/videos/p11-04.mp4",
+      "bytes": 499409,
+      "sha256": "f160b28898a3dcddcd3eae3f7dc59db2562a74bf9898b9795ef0182e19276201",
+      "status": "downloaded",
+      "label": "Our Services animation",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Animated social/design gallery",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "MAG9Xo0wrr4",
+      "sourcePage": 12,
+      "sourceOrder": 1,
+      "key": "p12-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/6fae3565a0da6552ce000ccde76c9504.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p12-01.png",
+      "bytes": 608126,
+      "sha256": "008ee9b297f9ae8dea6359e0231cfea2c6eaf8037e29e8f7de554cd02d35c524",
+      "status": "downloaded",
+      "label": "Hoseiki bracelet editorial",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XqGD8V8",
+      "sourcePage": 12,
+      "sourceOrder": 2,
+      "key": "p12-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/8e6cbd7251fdccecea1694705da691cb.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p12-02.png",
+      "bytes": 700240,
+      "sha256": "06170604f85330b9639c7dd48a42e6923709d1bdce41dc9169f5a69e2c961d34",
+      "status": "downloaded",
+      "label": "Hoseiki The Profusion",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XkYQ5sA",
+      "sourcePage": 12,
+      "sourceOrder": 3,
+      "key": "p12-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/2c7e21f075ae1ba33646562d52690d33.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p12-03.png",
+      "bytes": 1194054,
+      "sha256": "a9a649ee25da9584f07fdc2bd7243ef088e676cf3738b02844a22e3e60e608e7",
+      "status": "downloaded",
+      "label": "Hoseiki The Royalty red bracelet",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XiIadI0",
+      "sourcePage": 12,
+      "sourceOrder": 4,
+      "key": "p12-04",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/5337dd95fe32d5cdab68d949d973d2eb.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p12-04.png",
+      "bytes": 1554687,
+      "sha256": "9ee3dec088aad79bc1a581d2ad27413aed0003865ed1dc71c9d089008b957667",
+      "status": "downloaded",
+      "label": "Hoseiki clover necklace",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XjAPDqs",
+      "sourcePage": 12,
+      "sourceOrder": 5,
+      "key": "p12-05",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/dd2825271798d82d6982e3a054fc8ee7.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p12-05.png",
+      "bytes": 1450699,
+      "sha256": "bc5ee34643ca67f4271aa58737801b0bfacd137667ced552ecbd7b5fd6c682c4",
+      "status": "downloaded",
+      "label": "Hoseiki earrings",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XlIcLQ8",
+      "sourcePage": 12,
+      "sourceOrder": 6,
+      "key": "p12-06",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/74177068822f81ed92239bea72d6c200.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p12-06.png",
+      "bytes": 1485252,
+      "sha256": "dbc7733d000efb8dbc3c657bbe6fc47ef1263764f1c823f7913171e5cb1a3c1f",
+      "status": "downloaded",
+      "label": "Hoseiki green pendant",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XmHA7mM",
+      "sourcePage": 12,
+      "sourceOrder": 7,
+      "key": "p12-07",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/9a1a45d93bad16c93bc6b20ccbbc4027.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p12-07.png",
+      "bytes": 1456213,
+      "sha256": "bb29a7ccba9450a6241c29386c9b8e4754044beb48df7ebd73f9feca625c193a",
+      "status": "downloaded",
+      "label": "Hoseiki heart necklace",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9Xp1k_CA",
+      "sourcePage": 13,
+      "sourceOrder": 1,
+      "key": "p13-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/73b3f14441cdaa3811c35e9d6f2c9f2b.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p13-01.png",
+      "bytes": 1657525,
+      "sha256": "f5e2af5c67ce27754ac2133057facb7989ab19d7ca7005439ecbf564fd0b62d7",
+      "status": "downloaded",
+      "label": "Hoseiki gold earrings",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9Xg2lfbs",
+      "sourcePage": 13,
+      "sourceOrder": 2,
+      "key": "p13-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/47298c169074941950f5e1ced05254ae.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p13-02.png",
+      "bytes": 547229,
+      "sha256": "e61d4d9410550a00bbf96c61409dd37ff1b67ae93604222adb69c1ea9b003bcd",
+      "status": "downloaded",
+      "label": "Hoseiki bead closeup",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XnFSQC8",
+      "sourcePage": 13,
+      "sourceOrder": 3,
+      "key": "p13-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/72360cbf8722f0a52d5534d0201cad73.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p13-03.png",
+      "bytes": 623245,
+      "sha256": "21307053084089df55111dffc6517e48a34ac9ee61f80fd43931d8df28958193",
+      "status": "downloaded",
+      "label": "Hoseiki The Captivator",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9Xnw0bZk",
+      "sourcePage": 13,
+      "sourceOrder": 4,
+      "key": "p13-04",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/1a04f4fa14cfa77d2adc3c1aefada81f.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p13-04.png",
+      "bytes": 708957,
+      "sha256": "c6ab31d8348e9bb34badfccf7e40881586c3a9d417adb983b1b06d998090e521",
+      "status": "downloaded",
+      "label": "Hoseiki bracelet materials diagram",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XldWKN0",
+      "sourcePage": 13,
+      "sourceOrder": 5,
+      "key": "p13-05",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/20c5480efa387ede5aeb8e26376da59e.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p13-05.png",
+      "bytes": 594637,
+      "sha256": "f24a06d26563b560ae7e49d4215ae7d2349c2e9739b476b512005ef2a20fc090",
+      "status": "downloaded",
+      "label": "Hoseiki The Royalty composition",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XiVKvMk",
+      "sourcePage": 13,
+      "sourceOrder": 6,
+      "key": "p13-06",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/656cfdc4667cbf4385ef70c1ba21cb4a.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p13-06.png",
+      "bytes": 687859,
+      "sha256": "981173632687bc3085498bba36832afef3ba084366d87d7a9edbfd7593115351",
+      "status": "downloaded",
+      "label": "Hoseiki blue bracelet materials diagram",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9Xp7vLLo",
+      "sourcePage": 13,
+      "sourceOrder": 7,
+      "key": "p13-07",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/86b984684ce63745e6bd559e3033d4eb.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p13-07.png",
+      "bytes": 718321,
+      "sha256": "a68d49d76216baf3c7b87bfbf8766606df7ef7b854bcf22e7eb5d38eade83f25",
+      "status": "downloaded",
+      "label": "Hoseiki pendant editorial",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9Xmbc71s",
+      "sourcePage": 13,
+      "sourceOrder": 8,
+      "key": "p13-08",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/a8c86dc14f3eae5e4eff658837f4c532.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1080,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p13-08.png",
+      "bytes": 627208,
+      "sha256": "1d6b41fa9de359db8d0cb0fa2b359037409a63c95e9940835659a13db5b5805f",
+      "status": "downloaded",
+      "label": "Hoseiki stacked bracelets",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Hoseiki jewelry",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtiv09gg",
+      "sourcePage": 14,
+      "sourceOrder": 1,
+      "key": "p14-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/f98fe9b613e75a07bdb618e0bdefdee4.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p14-01.jpg",
+      "bytes": 500037,
+      "sha256": "c47f846f8776169b718d4515015d8e9a34dba8e9bf706782b6990eea3bb5e4c2",
+      "status": "downloaded",
+      "label": "Waitlist Golf - Before",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Waitlist Golf",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtiS3J3A",
+      "sourcePage": 14,
+      "sourceOrder": 2,
+      "key": "p14-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/4cb34ce86753fb9b9808b0f8083b948b.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p14-02.jpg",
+      "bytes": 583458,
+      "sha256": "5ed3795c572cab3ca4b0a0975528a999ab7518e46b8c55f18c7b69924150ad31",
+      "status": "downloaded",
+      "label": "Waitlist Golf - portrait",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Waitlist Golf",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHttbGraA",
+      "sourcePage": 14,
+      "sourceOrder": 3,
+      "key": "p14-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/e674345d2ff8c772f3ff9b3752f2d008.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p14-03.jpg",
+      "bytes": 731783,
+      "sha256": "8048955dbb646e06f8abcb58a1bf35856796a30e48d31d1c0426626f92acb66c",
+      "status": "downloaded",
+      "label": "Waitlist Golf - Only",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Waitlist Golf",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtkeqwcI",
+      "sourcePage": 14,
+      "sourceOrder": 4,
+      "key": "p14-04",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/fc02282f46e2a9c29c41a77b0a90f5ca.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p14-04.jpg",
+      "bytes": 551328,
+      "sha256": "94ddb4dec5513968e6cb4915b60f49c30a7315c1a228d38a7b06447299dd5fc0",
+      "status": "downloaded",
+      "label": "Waitlist Golf - Quiet by design",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Waitlist Golf",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtg8xP_4",
+      "sourcePage": 14,
+      "sourceOrder": 5,
+      "key": "p14-05",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/86c47ea069b42a17b93925d224ece34e.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p14-05.jpg",
+      "bytes": 569624,
+      "sha256": "ff0be451e322d24a2a2d0e8b0322db862dae9018d076cb30d72d1b47ac64fb4e",
+      "status": "downloaded",
+      "label": "Waitlist Golf - Intentional drops",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Waitlist Golf",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHthl1RZg",
+      "sourcePage": 14,
+      "sourceOrder": 6,
+      "key": "p14-06",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/cb13f29c97e27fa3303084ea8f16c204.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p14-06.jpg",
+      "bytes": 587403,
+      "sha256": "b3413b95113e0a23aa1ace529b199805ce40208d3acad34fb19ef188ef86f913",
+      "status": "downloaded",
+      "label": "Waitlist Golf - Not everyone",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Waitlist Golf",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtpSu52o",
+      "sourcePage": 14,
+      "sourceOrder": 7,
+      "key": "p14-07",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/af0cca8f856f0b05853ea96e025b5ae8.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p14-07.jpg",
+      "bytes": 338994,
+      "sha256": "6a17809aec9655b3ddcf6eeca420f6e80af86f841a5b585f2c0fdbe995d5ee44",
+      "status": "downloaded",
+      "label": "Waitlist Golf - Built on restraint",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Waitlist Golf",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAHHtl_AYbo",
+      "sourcePage": 14,
+      "sourceOrder": 8,
+      "key": "p14-08",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/167a2411d6711acf200bc28dacc64a09.jpg"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p14-08.jpg",
+      "bytes": 505182,
+      "sha256": "ba7e45580d5f1eb0c2d3d288528aea5ab922c115d6520886e4c3ea0c8e50bf7c",
+      "status": "downloaded",
+      "label": "Waitlist Golf - Members first access",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Waitlist Golf",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFxdSDAnuc",
+      "sourcePage": 15,
+      "sourceOrder": 1,
+      "key": "p15-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/2d20488b5f4373adb9bac7cf0e5eb86e.png"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p15-01.png",
+      "bytes": 412960,
+      "sha256": "5498f9055afcdcb844947bbf586c7b225b24ca775e246d6d69a3fe15ba0b5bb2",
+      "status": "downloaded",
+      "label": "Integra carousel slide 1",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Integra carousel and restaurant presentations",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "carouselSlide": 1,
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFxdVvUkic",
+      "sourcePage": 15,
+      "sourceOrder": 2,
+      "key": "p15-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/3559bb71a6aa0e9a6a921a5269498444.png"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p15-02.png",
+      "bytes": 408247,
+      "sha256": "31f67436b560371b70aeeabdaa75f944f84e7fb181ac0a02bab9b35fb7ba6abd",
+      "status": "downloaded",
+      "label": "Integra carousel slide 6",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Integra carousel and restaurant presentations",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "carouselSlide": 6,
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFxdSxPSBc",
+      "sourcePage": 15,
+      "sourceOrder": 3,
+      "key": "p15-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/db772a0975eaeee5a92c9f2506b81ec0.png"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p15-03.png",
+      "bytes": 401000,
+      "sha256": "62fc9052e9ff17d1344ad0d8eccd887cd3e1d5acb48f8aec7b7c50df4ea191ef",
+      "status": "downloaded",
+      "label": "Integra carousel slide 7",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Integra carousel and restaurant presentations",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "carouselSlide": 7,
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFxdY173bo",
+      "sourcePage": 15,
+      "sourceOrder": 4,
+      "key": "p15-04",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/51699f684a6bf40c85d9a80a5760baf8.png"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p15-04.png",
+      "bytes": 455004,
+      "sha256": "ede7a301e697cae86aa9316530490934ab2438ddd66182434cd98b708e2d1280",
+      "status": "downloaded",
+      "label": "Integra carousel slide 5",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Integra carousel and restaurant presentations",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "carouselSlide": 5,
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFxdS_p8c4",
+      "sourcePage": 15,
+      "sourceOrder": 5,
+      "key": "p15-05",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/08d177608a8ad58ba28b3f8964604946.png"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p15-05.png",
+      "bytes": 484599,
+      "sha256": "c1aa390e9ad44fff9c97ae96535d4d26c4edb29617f54daf0f7c96f7b7daa95a",
+      "status": "downloaded",
+      "label": "Integra carousel slide 4",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Integra carousel and restaurant presentations",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "carouselSlide": 4,
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFxdSF49MA",
+      "sourcePage": 15,
+      "sourceOrder": 6,
+      "key": "p15-06",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/dc86a564bc2764d2bc08fd8ba5a2e5d7.png"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p15-06.png",
+      "bytes": 380823,
+      "sha256": "8949c01c01ca73e16bcd083245a6535d0e3744e98e75beb8e879e7a843f548cd",
+      "status": "downloaded",
+      "label": "Integra carousel slide 2",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Integra carousel and restaurant presentations",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "carouselSlide": 2,
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFxdfdzXOg",
+      "sourcePage": 15,
+      "sourceOrder": 7,
+      "key": "p15-07",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/e021251fc40dc88d33d9a0d8cbc9fb5f.png"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p15-07.png",
+      "bytes": 418162,
+      "sha256": "8292e04adb1fbea2a71e0fea7f29ce8a2870b7e9bb883f25d6cfc16aba54f37f",
+      "status": "downloaded",
+      "label": "Integra carousel slide 3",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Integra carousel and restaurant presentations",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "carouselSlide": 3,
+      "placement": "selected-work"
+    },
+    {
+      "id": "VAGP_wReiAQ",
+      "sourcePage": 15,
+      "sourceOrder": 8,
+      "key": "p15-08",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/7e5cfe80e6be9f427b3528d340ff0b2d.mp4"
+      ],
+      "issues": [
+        "Published MP4 contains no audio stream; no separate audio is exposed for this item. Confirm whether intentionally silent or obtain original with audio."
+      ],
+      "declaredOriginalSize": [
+        1920,
+        1080
+      ],
+      "declaredDuration": 20.0,
+      "extraction": "Direct MP4 export",
+      "width": 1920,
+      "height": 1080,
+      "audio": false,
+      "duration": "00:00:20.00",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 3584 kb/s, 20 fps, 20 tbr, 20k tbn (default)",
+      "poster": "/work/posters/p15-08.jpg",
+      "localPath": "/work/videos/p15-08.mp4",
+      "bytes": 8967482,
+      "sha256": "4d1545ba7e3e22f43828d007e6b2bb6cc7636014a740aa5b1ce30fc33d4b6ff8",
+      "status": "downloaded",
+      "label": "Skinos restaurant presentation",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Integra carousel and restaurant presentations",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "VAGP_7skXrA",
+      "sourcePage": 15,
+      "sourceOrder": 9,
+      "key": "p15-09",
+      "kind": "video",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/video/4486bc877635e03930d7530f9d9ad3ca.mp4"
+      ],
+      "issues": [
+        "Published MP4 contains no audio stream; no separate audio is exposed for this item. Confirm whether intentionally silent or obtain original with audio."
+      ],
+      "declaredOriginalSize": [
+        1920,
+        1080
+      ],
+      "declaredDuration": 75.0,
+      "extraction": "Direct MP4 export",
+      "width": 1920,
+      "height": 1080,
+      "audio": false,
+      "duration": "00:01:15.00",
+      "codecSummary": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 3157 kb/s, 10 fps, 10 tbr, 10k tbn (default)",
+      "poster": "/work/posters/p15-09.jpg",
+      "localPath": "/work/videos/p15-09.mp4",
+      "bytes": 29613279,
+      "sha256": "4b940b10cbd20c3f6e4f5f911dfecd45bfc9174481f0278848b8d92b3e92b81c",
+      "status": "downloaded",
+      "label": "Kokomo prix fixe presentation",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Integra carousel and restaurant presentations",
+      "category": "Video",
+      "fullDecodePassed": true,
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Video"
+      ],
+      "placement": "selected-work",
+      "approvalStatus": "Approved as-is by user, including low resolution and silent audio; replacement sourcing not required."
+    },
+    {
+      "id": "MAG9XynPj6I",
+      "sourcePage": 16,
+      "sourceOrder": 1,
+      "key": "p16-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/2ca1bc604ca5ebefbd318362f7e5ab98.png"
+      ],
+      "issues": [],
+      "width": 1545,
+      "height": 2000,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p16-01.png",
+      "bytes": 1162167,
+      "sha256": "7303e7d1303b4b1e4cf0a6be64dcbbf5a161e63df7679aeb400ad1a9b256c7e6",
+      "status": "downloaded",
+      "label": "Bumo summer camp guide interior A",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Bumo camp guide",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9X7N8OAc",
+      "sourcePage": 16,
+      "sourceOrder": 2,
+      "key": "p16-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/7bd32c9e03f2efd270721d456b7c9b69.png"
+      ],
+      "issues": [],
+      "width": 1545,
+      "height": 2000,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p16-02.png",
+      "bytes": 1004572,
+      "sha256": "5ed0485cd630544c28b569d4bbe829032f00312e9bba7913b52c89485e995547",
+      "status": "downloaded",
+      "label": "Bumo summer camp guide cover",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Bumo camp guide",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAG9XwHyw4w",
+      "sourcePage": 16,
+      "sourceOrder": 3,
+      "key": "p16-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/c9553b116d1ef41bca05e53dfa71da66.png"
+      ],
+      "issues": [],
+      "width": 1545,
+      "height": 2000,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p16-03.png",
+      "bytes": 1312098,
+      "sha256": "f43951bcc82cb753fa70c9b161e263f0cd17ad70bfeafd5f2a245e525f9b6266",
+      "status": "downloaded",
+      "label": "Bumo summer camp guide interior B",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Bumo camp guide",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKYLjulk",
+      "sourcePage": 17,
+      "sourceOrder": 1,
+      "key": "p17-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/dba1fa750b06401a2ef5d3a8bd9063fe.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p17-01.png",
+      "bytes": 3810553,
+      "sha256": "df7b778234d8b3d55961b1de0d910771462f9196f4a080ecb998f7ea9421adf6",
+      "status": "downloaded",
+      "label": "Workplace respect post",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and immigration posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKUs1HPc",
+      "sourcePage": 17,
+      "sourceOrder": 2,
+      "key": "p17-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/5ab704b84223aab787e08c27204ab735.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p17-02.png",
+      "bytes": 3602379,
+      "sha256": "565df87b627f3071b5bba788ca40e07f7339a370e2311fd214031b7d91f664a2",
+      "status": "downloaded",
+      "label": "Wellness carousel cover",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and immigration posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKXht1io",
+      "sourcePage": 17,
+      "sourceOrder": 3,
+      "key": "p17-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/a2802f891aad288ac63b32ced0a0fd2e.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p17-03.png",
+      "bytes": 4394093,
+      "sha256": "c9fabdd2a6a12ef49f59f4038b8983ee513be9a7db9fd06f68cb4d447eebb406",
+      "status": "downloaded",
+      "label": "Wellness - Physical",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and immigration posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKaiSbhU",
+      "sourcePage": 17,
+      "sourceOrder": 4,
+      "key": "p17-04",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/cd71f74de984500a1dd4b3407e638f4b.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p17-04.png",
+      "bytes": 5115398,
+      "sha256": "0d5527f09a908d81d1099fd6cca41a05c71f40ffd82c15ebdf08aebcfae4ddb0",
+      "status": "downloaded",
+      "label": "Wellness - Emotional",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and immigration posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKWJbk24",
+      "sourcePage": 17,
+      "sourceOrder": 5,
+      "key": "p17-05",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/58466f11da9c6cad594fb789fabd191b.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p17-05.png",
+      "bytes": 5043647,
+      "sha256": "5bcee92ed06e2ab2c30165aa44560b1c4b6f5ad5a939ebb543467a7840bc8535",
+      "status": "downloaded",
+      "label": "Wellness - Spiritual",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and immigration posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKWBUFEM",
+      "sourcePage": 17,
+      "sourceOrder": 6,
+      "key": "p17-06",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/c2b4b4ee0715283e0350679d3124c48d.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p17-06.png",
+      "bytes": 5397055,
+      "sha256": "ac424f7c2cc45be7ba842e4e58fc0f6e820b7a0e138b67e1c025ab543c58533e",
+      "status": "downloaded",
+      "label": "Wellness carousel closing slide",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and immigration posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKeaFlYE",
+      "sourcePage": 17,
+      "sourceOrder": 7,
+      "key": "p17-07",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/d65f6d1b3f106d2a152533f957fcaf88.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p17-07.png",
+      "bytes": 336440,
+      "sha256": "87bb5d5a00fa0170d1cee448508d6493518d812a57390ce024c7ee406e5a63c1",
+      "status": "downloaded",
+      "label": "20K followers post",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and immigration posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKe16xZo",
+      "sourcePage": 17,
+      "sourceOrder": 8,
+      "key": "p17-08",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/a4979aa878348f15a7ae7b1a4888ff47.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p17-08.png",
+      "bytes": 1279234,
+      "sha256": "5fae94c1e1d7aa4ac75e9d37360a4cc8714432d9d61c5a9ac68a08788494f0b4",
+      "status": "downloaded",
+      "label": "Jâ€™Moi Fraser immigration services post",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and immigration posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAGP_rJ7v38",
+      "sourcePage": 18,
+      "sourceOrder": 1,
+      "key": "p18-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/9e8040290c1a5ca4e1c624054f695181.jpg"
+      ],
+      "issues": [],
+      "width": 1280,
+      "height": 1280,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-01.jpg",
+      "bytes": 294714,
+      "sha256": "996be3a15332f5e93a97872d3f52255c69afddcf8815df7eaae554213112fdcb",
+      "status": "downloaded",
+      "label": "Magical Medicine founder story",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAGP_kWT6SI",
+      "sourcePage": 18,
+      "sourceOrder": 2,
+      "key": "p18-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/fb6805316691388a78981ff8130b6669.jpg"
+      ],
+      "issues": [],
+      "width": 1280,
+      "height": 1280,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-02.jpg",
+      "bytes": 175019,
+      "sha256": "a6f9e671626b59c04a7e7680b3a466f882beb66889eba57173494bcac2b6d100",
+      "status": "downloaded",
+      "label": "Magical Medicine - Brahmi",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAGP_gp-FGQ",
+      "sourcePage": 18,
+      "sourceOrder": 3,
+      "key": "p18-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/d6c547a9604f283fb622ce73791ec57b.jpg"
+      ],
+      "issues": [],
+      "width": 1280,
+      "height": 1280,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-03.jpg",
+      "bytes": 199734,
+      "sha256": "cfd56d21c6d4e16ca3d8bd8889f7bd348adaaa67b49d2b02055963428f8a21ad",
+      "status": "downloaded",
+      "label": "Magical Medicine - Summer self-care",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAGP_jT9JC8",
+      "sourcePage": 18,
+      "sourceOrder": 4,
+      "key": "p18-04",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/50ef3ba4cbfde03e3e8832fb0e73891e.jpg"
+      ],
+      "issues": [],
+      "width": 1280,
+      "height": 1280,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-04.jpg",
+      "bytes": 145592,
+      "sha256": "f8ad87ee110dcacb6b9dd1a5351a4db71c5b23ad582447a74523debca8285f4d",
+      "status": "downloaded",
+      "label": "Magical Medicine - Signs of Ama",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAGP_vhjGY8",
+      "sourcePage": 18,
+      "sourceOrder": 5,
+      "key": "p18-05",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/ae341cd71f9e280b7288fe1103064139.jpg"
+      ],
+      "issues": [],
+      "width": 1280,
+      "height": 1280,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-05.jpg",
+      "bytes": 129139,
+      "sha256": "0258daa2d83606d32421eea1d503d9d8a2c72b51435c7e546ac81a0f00eb0dde",
+      "status": "downloaded",
+      "label": "Magical Medicine - Spa recipe",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAGP_uoikpQ",
+      "sourcePage": 18,
+      "sourceOrder": 6,
+      "key": "p18-06",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/ea2cdad2bd4613b1500360e5ffa55934.jpg"
+      ],
+      "issues": [],
+      "width": 1280,
+      "height": 1280,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-06.jpg",
+      "bytes": 237922,
+      "sha256": "ece87b2ec6edb4fe3ddd4888533d19f8aa52219d2f8b65945201549ae63c5e2f",
+      "status": "downloaded",
+      "label": "Magical Medicine - Yoga tips",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsf0UkjFc",
+      "sourcePage": 18,
+      "sourceOrder": 7,
+      "key": "p18-07",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/1d8f8a29e5aeb38837da851d04216898.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-07.png",
+      "bytes": 3911859,
+      "sha256": "05516884ed9fd9e8a54732306be9088d3b0ce678c9d525a5d05f9872ff036fd9",
+      "status": "downloaded",
+      "label": "Nutrition - How to work with us",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsf5ukpQg",
+      "sourcePage": 18,
+      "sourceOrder": 8,
+      "key": "p18-08",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/f43de125220c2000eeae067023c12d11.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-08.png",
+      "bytes": 730788,
+      "sha256": "beb7507d0c2e15870182cd9a68f802de0ba8862722d25464fc7d59fcf244e825",
+      "status": "downloaded",
+      "label": "Nutrition - Who we work with",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsf0ByKNg",
+      "sourcePage": 18,
+      "sourceOrder": 9,
+      "key": "p18-09",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/a7c1cf251ec4eab5ad05bec476917b0a.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-09.png",
+      "bytes": 959713,
+      "sha256": "fe25390bd3115b8d643026c4fcf5a5639649fa343920ca509eae4ae142819103",
+      "status": "downloaded",
+      "label": "Nutrition - Dietary counseling",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsf0HK92A",
+      "sourcePage": 18,
+      "sourceOrder": 10,
+      "key": "p18-10",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/0bcbee92c6afaeb22383de0cdfd737e7.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-10.png",
+      "bytes": 536310,
+      "sha256": "7a084c6aaac8c1c0aaff19c8b895a13781500dc0f04cd61cd18c9dbe437ee3ab",
+      "status": "downloaded",
+      "label": "Nutrition - Pricing",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsf5vNZjI",
+      "sourcePage": 18,
+      "sourceOrder": 11,
+      "key": "p18-11",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/b59a0eefad24fa1a40192c855e3cd9e1.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-11.png",
+      "bytes": 1791154,
+      "sha256": "31c0c7cb9bb36ef5d220270ad6fe3897d5a3bab74f773da301631633a1a16b88",
+      "status": "downloaded",
+      "label": "Nutrition - Work with us CTA",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsf0OgXBs",
+      "sourcePage": 18,
+      "sourceOrder": 12,
+      "key": "p18-12",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/ba437412a3a1bbe8e95b4a8d4c19c050.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-12.png",
+      "bytes": 3314594,
+      "sha256": "a225e9e9bd4b82ae24aaaa16babbe0f86d0d868d1908fd0e321036b075c74dc5",
+      "status": "downloaded",
+      "label": "Paige Munso - Start here",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsf_hDHv4",
+      "sourcePage": 18,
+      "sourceOrder": 13,
+      "key": "p18-13",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/dc68e5da1f354f95e3979e391882e712.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-13.png",
+      "bytes": 2713440,
+      "sha256": "477c2fb82269c401803913aa2475e25d01b76876e9c31fad1c020d221247889e",
+      "status": "downloaded",
+      "label": "Paige Munso - Welcome",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsfysaX0s",
+      "sourcePage": 18,
+      "sourceOrder": 14,
+      "key": "p18-14",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/ecbe46e1a7b60b3afd38b8372bd92df3.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-14.png",
+      "bytes": 2913619,
+      "sha256": "b5ac15bee378e4fad3202f46e38d528e3faebcf3db88c54ab8ad07609f2d9c1c",
+      "status": "downloaded",
+      "label": "Paige Munso - Who are you",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsfw8Mw08",
+      "sourcePage": 18,
+      "sourceOrder": 15,
+      "key": "p18-15",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/70c4ac87bc9464f7bcbfc573ff8a8ee9.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-15.png",
+      "bytes": 2909619,
+      "sha256": "0ae854ed035a421129f34e3291ce46d1726283115033242dd34a44b2afc3bb96",
+      "status": "downloaded",
+      "label": "Paige Munso - About me",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFsf4ZFCXc",
+      "sourcePage": 18,
+      "sourceOrder": 16,
+      "key": "p18-16",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/26a172ee9c199b6ed6cf955d5757a446.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p18-16.png",
+      "bytes": 352559,
+      "sha256": "1129ae4772928c8618196ef0af6f1763bedce128c369ad30fb8d2b26333eeee2",
+      "status": "downloaded",
+      "label": "Emotional Eaters Anonymous - Our mission",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Wellness and nutrition campaigns",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAF_K5Wg4r4",
+      "sourcePage": 19,
+      "sourceOrder": 1,
+      "key": "p19-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/05a2897610d5bbc70fbcd4ae86cf8c88.png"
+      ],
+      "issues": [],
+      "width": 1919,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p19-01.png",
+      "bytes": 7713060,
+      "sha256": "0d3882845af37d87175bd2f871088804e418aedc1f74f8debfc37303fb5dc8a4",
+      "status": "downloaded",
+      "label": "Mirame botanical product composition",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Mirame product imagery and recruitment flyers",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAF_Kzf6tSo",
+      "sourcePage": 19,
+      "sourceOrder": 2,
+      "key": "p19-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/505b993d4d48e4b5ba8ffd83ebecc651.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1350,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p19-02.png",
+      "bytes": 2402057,
+      "sha256": "42858373d5af084d441a597208bf237cf10f7c320867edc4c2a6cd364af06a70",
+      "status": "downloaded",
+      "label": "Mirame two-product composition",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Mirame product imagery and recruitment flyers",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAF_KzgQDXQ",
+      "sourcePage": 19,
+      "sourceOrder": 3,
+      "key": "p19-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/66b0666c52e61c204e89f4203c4414ab.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1350,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p19-03.png",
+      "bytes": 2393977,
+      "sha256": "eb4ef21dddd1a0c5e1ac61668e526f7420a2695f2d1c12292b5c30569dcfa74a",
+      "status": "downloaded",
+      "label": "Mirame moss product composition",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Mirame product imagery and recruitment flyers",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAF_K6mPmS8",
+      "sourcePage": 19,
+      "sourceOrder": 4,
+      "key": "p19-04",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/a8a473674fd8404027050f27f77e28fc.png"
+      ],
+      "issues": [],
+      "width": 1080,
+      "height": 1350,
+      "canvaQuality": "SCREEN_2X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p19-04.png",
+      "bytes": 1458165,
+      "sha256": "b75e45ce8fca690f2522831b91efcf844712e535383226d652776e579ce77481",
+      "status": "downloaded",
+      "label": "Mirame architectural product composition",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Mirame product imagery and recruitment flyers",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFpMfcsxgE",
+      "sourcePage": 19,
+      "sourceOrder": 5,
+      "key": "p19-05",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/4f150dc56cb8293efb5c3d7eb7a45f4b.png"
+      ],
+      "issues": [],
+      "width": 1696,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p19-05.png",
+      "bytes": 3006996,
+      "sha256": "cb06f8edff9372e045bdb0c1a2b29b60bf13dc5a3b5a083a65d520242afdec52",
+      "status": "downloaded",
+      "label": "Recruitment flyer - overwhelmed with hiring",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Mirame product imagery and recruitment flyers",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFpMaymoLg",
+      "sourcePage": 19,
+      "sourceOrder": 6,
+      "key": "p19-06",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/8dfdf8aee1b608c1045c80836c81a22e.png"
+      ],
+      "issues": [],
+      "width": 1696,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p19-06.png",
+      "bytes": 1754860,
+      "sha256": "73bbe725cd2e0eb4a3f10519da085808e1b006f87c557236445764702e93d9bd",
+      "status": "downloaded",
+      "label": "Recruitment flyer - our process",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Mirame product imagery and recruitment flyers",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFpMT4_0ww",
+      "sourcePage": 19,
+      "sourceOrder": 7,
+      "key": "p19-07",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/fa8649a87fac9cfacc7db7f0dea882a7.png"
+      ],
+      "issues": [],
+      "width": 1696,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p19-07.png",
+      "bytes": 3288583,
+      "sha256": "24b3e1774120bb96f202a2be16291a829834442460018e42d5025f06dd1509d6",
+      "status": "downloaded",
+      "label": "Recruitment flyer - struggling with staffing",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Mirame product imagery and recruitment flyers",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFpMVT8XIY",
+      "sourcePage": 19,
+      "sourceOrder": 8,
+      "key": "p19-08",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/b18df67cfedba8830806dc60d3872f57.png"
+      ],
+      "issues": [],
+      "width": 1696,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p19-08.png",
+      "bytes": 1640792,
+      "sha256": "3bb088aa1e63f57d99f92b3b0e9d2e2d3c933d1366138af9402d4ddcf1d1846c",
+      "status": "downloaded",
+      "label": "Recruitment flyer - our mission",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Mirame product imagery and recruitment flyers",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAGP_4wUvBY",
+      "sourcePage": 20,
+      "sourceOrder": 1,
+      "key": "p20-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/a510c0bcd9ca4e2c6492c92022937069.png"
+      ],
+      "issues": [],
+      "width": 1696,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p20-01.png",
+      "bytes": 3932972,
+      "sha256": "234892e9b794c2f3cde8c552d575854d762f1be1ba580e3b37dd8500489e3abf",
+      "status": "downloaded",
+      "label": "Casa Lamia brochure interior",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Casa Lamia brochure",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAGP_z5oV2I",
+      "sourcePage": 20,
+      "sourceOrder": 2,
+      "key": "p20-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/9e10f2691c0a7489296e12ae7d1d5a10.png"
+      ],
+      "issues": [],
+      "width": 1696,
+      "height": 2399,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p20-02.png",
+      "bytes": 4489704,
+      "sha256": "89a4fdaea82a7228c7475e1b13cc09a5a7c7d6a4da008cc075418d6e0dace650",
+      "status": "downloaded",
+      "label": "Casa Lamia brochure cover",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "Casa Lamia brochure",
+      "category": "Graphic Design",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKpDCTOA",
+      "sourcePage": 21,
+      "sourceOrder": 1,
+      "key": "p21-01",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/ad14349bc00619b3e3e2081b679cb54d.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p21-01.png",
+      "bytes": 5107913,
+      "sha256": "16c46beadb22801947e7417901d6662dba7c49811a37bd9ff48dfcc4363c9594",
+      "status": "downloaded",
+      "label": "High Rise - quality sourced products",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "High Rise posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKmE2L7Y",
+      "sourcePage": 21,
+      "sourceOrder": 2,
+      "key": "p21-02",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/2d6f9dd9e03224797f714bb8f9bb99fd.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p21-02.png",
+      "bytes": 5854291,
+      "sha256": "c45bde835b3c35d7a550ffd96541bd0d398208481bf6d3e4028103560d9dcdab",
+      "status": "downloaded",
+      "label": "High Rise - elevate your experience",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "High Rise posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    },
+    {
+      "id": "MAFuKnmOzj0",
+      "sourcePage": 21,
+      "sourceOrder": 3,
+      "key": "p21-03",
+      "kind": "image",
+      "sources": [
+        "https://createwithailyn.my.canva.site/portfolio/_assets/media/fe3e95dfffe196b6d48e1c872ad731a6.png"
+      ],
+      "issues": [],
+      "width": 2400,
+      "height": 2400,
+      "canvaQuality": "SCREEN_3X",
+      "watermarkedFlag": false,
+      "localPath": "/work/images/p21-03.png",
+      "bytes": 3460795,
+      "sha256": "c9d6a4cb4d3fda4e403aa0712d35755f158da6d9d6e627f13460735b092d7ea2",
+      "status": "downloaded",
+      "label": "High Rise - women-owned brand",
+      "labelProvenance": "Descriptive inventory label based on visible artwork; not an official project title",
+      "sourceGrouping": "High Rise posts",
+      "category": "Social",
+      "categoryStatus": "Approved primary category",
+      "tags": [
+        "Social",
+        "Graphic Design"
+      ],
+      "placement": "selected-work"
+    }
+  ],
+  "summary": {
+    "portfolioAssetCount": 100,
+    "videoCount": 18,
+    "staticImageCount": 82,
+    "excludedDecorations": 1,
+    "primaryCategories": {
+      "Graphic Design": 19,
+      "Social": 63,
+      "Video": 18
+    },
+    "categoryApproval": "approved; analytics held out of Selected Work",
+    "mediaOrigin": "Best available published Canva renditions, not asserted to be original uploads",
+    "duplicateSha256Count": 0,
+    "selectedWorkAssetCount": 94,
+    "heldResultsCount": 6,
+    "selectedWorkCategories": {
+      "Video": 18,
+      "Graphic Design": 19,
+      "Social": 57
+    }
+  }
+}
