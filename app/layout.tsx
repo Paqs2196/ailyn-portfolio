@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { Analytics } from '@vercel/analytics/next';
 import './globals.css';
 
 // TEMPORARY PLACEHOLDER — real Synonym/Amulya files are missing from public/fonts/.
@@ -15,5 +16,5 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en" style={placeholderFontVars}><body>{children}</body></html>;
+  return <html lang="en" style={placeholderFontVars}><body>{children}<Analytics /></body></html>;
 }
